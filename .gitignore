@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/create_config.py
+/config.ini
+/chromedriver.exe
+/logs/
